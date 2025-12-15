@@ -15,7 +15,10 @@
 ![Portainer Interface](12.jpg)
 
 ### 2. Інші налаштування
-*(Тут ти можеш додати опис для інших фото, наприклад 1.jpg)*
-![Network config](1.jpg)
 
+![Network config](1.jpg)
+![Network config_2](2.jpg)
+![Network config_3](3.jpg)
+![Network config_4](4.jpg)
+![Network config_5](5.jpg)
 ![Another config](10.jpg)
